@@ -1,7 +1,7 @@
 
 # Habit Tracker app
 
-#Hosted Link: https://habit-tracker-using-react-js.vercel.app/
+# Hosted Link: https://habit-tracker-using-react-js.vercel.app/
 
 This is the basic project for displaying all the Habits list Which is used to store in redux and you can also update status of habit. 
 
@@ -16,8 +16,6 @@ This is the basic project for displaying all the Habits list Which is used to st
 
 4.It's incredibly helpful for your daily routine, and you may build a streak to demonstrate your level of dedication.
 
-
-Hosted Link:https://habit-tracker-app-react-two.vercel.app/
 
 # folder structure
 
